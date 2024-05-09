@@ -3,3 +3,4 @@ you are the prettiest
 --------------------
 and the song goes on
 --------------------
+conflict resolving in git
